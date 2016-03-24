@@ -1,5 +1,3 @@
-#  Life
-
 # Sigon
 
 ### → I have  [`goals`](https://github.com/sigon426/Life/issues?state=open) and [`achievements`](https://github.com/sigon426/Life/issues?state=closed) ←.
